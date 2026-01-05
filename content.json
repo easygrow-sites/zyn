@@ -1,25 +1,25 @@
 {
   "business": {
     "name": "ZYN",
-    "tagline": "Sydney's Premier selling zyn tobacco pouches - Where Quality Meets Excellence",
+    "tagline": "Sydney's Premium Nicotine Pouch Destination",
     "phone": "045984839202",
     "email": "aaron@savvy-viva.com",
-    "address": "123 Main Street, Sydney",
+    "address": "Sydney, NSW",
     "suburb": "Sydney",
     "city": "Sydney",
     "state": "NSW",
-    "postcode": "4000",
+    "postcode": "2000",
     "country": "Australia",
-    "service": "selling zyn tobacco pouches",
-    "serviceSlug": "selling-zyn-tobacco-pouches",
+    "service": "Nicotine Pouches",
+    "serviceSlug": "nicotine-pouches",
     "established": 2021,
     "openingHours": {
-      "monday": "9:00 AM - 5:00 PM",
-      "tuesday": "9:00 AM - 5:00 PM",
-      "wednesday": "9:00 AM - 5:00 PM",
-      "thursday": "9:00 AM - 7:00 PM",
-      "friday": "9:00 AM - 5:00 PM",
-      "saturday": "9:00 AM - 4:00 PM",
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
       "sunday": "Closed"
     },
     "socialMedia": {
@@ -30,298 +30,162 @@
   },
   "services": [
     {
-      "title": "Premium Service",
-      "slug": "premium-service",
-      "shortDescription": "Our most popular service",
-      "description": "Experience our flagship service with attention to detail and quality craftsmanship.",
-      "price": "From $100",
-      "duration": "60 mins",
+      "title": "ZYN Nicotine Pouches",
+      "slug": "zyn-nicotine-pouches",
+      "shortDescription": "Premium tobacco-free nicotine pouches",
+      "description": "Experience the clean, smoke-free alternative with ZYN nicotine pouches. Made with pharmaceutical-grade nicotine, ZYN offers a discreet and satisfying experience without tobacco leaf, smoke, or vapor.",
+      "price": "From $15",
+      "duration": "Lasts 30-60 mins per pouch",
       "icon": "star",
       "features": [
-        "Quality guaranteed",
-        "Expert team",
-        "Premium materials",
-        "Full support"
+        "100% tobacco-free",
+        "No smoke or vapor",
+        "Discreet and portable",
+        "Multiple flavors available"
       ],
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=800&h=600&fit=crop"
     },
     {
-      "title": "Standard Service",
-      "slug": "standard-service",
-      "shortDescription": "Professional service at great value",
-      "description": "Quality service that meets your needs without breaking the bank.",
-      "price": "From $75",
-      "duration": "45 mins",
-      "icon": "check",
+      "title": "Starter Packs",
+      "slug": "starter-packs",
+      "shortDescription": "Perfect for trying ZYN for the first time",
+      "description": "New to nicotine pouches? Our starter packs include a variety of flavors and strengths so you can find your perfect match. Each pack comes with usage guides and tips for the best experience.",
+      "price": "From $25",
+      "duration": "Multiple cans included",
+      "icon": "gift",
       "features": [
-        "Professional service",
-        "Fair pricing",
-        "Quick turnaround",
-        "Satisfaction guaranteed"
+        "Variety of flavors",
+        "Different strengths",
+        "Usage guide included",
+        "Great value bundle"
       ],
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=600&fit=crop"
     },
     {
-      "title": "Express Service",
-      "slug": "express-service",
-      "shortDescription": "Quick and efficient service",
-      "description": "When you need it done fast without compromising on quality.",
-      "price": "From $50",
-      "duration": "30 mins",
-      "icon": "clock",
+      "title": "Bulk Orders",
+      "slug": "bulk-orders",
+      "shortDescription": "Save more when you buy in bulk",
+      "description": "Stock up and save with our bulk ordering options. Perfect for regular users who want convenience and value. Bulk orders ship fast with free delivery on orders over $100.",
+      "price": "Save up to 20%",
+      "duration": "Free shipping over $100",
+      "icon": "package",
       "features": [
-        "Fast service",
-        "No compromise",
-        "Convenient",
-        "Reliable"
+        "Volume discounts",
+        "Free shipping available",
+        "Subscribe & save option",
+        "Never run out"
       ],
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?w=800&h=600&fit=crop"
     },
     {
-      "title": "Consultation",
-      "slug": "consultation",
-      "shortDescription": "Expert advice and planning",
-      "description": "Get professional advice tailored to your specific needs and requirements.",
+      "title": "Product Consultation",
+      "slug": "product-consultation",
+      "shortDescription": "Get personalized recommendations",
+      "description": "Not sure which ZYN products are right for you? Our team can help you choose the perfect flavor and strength based on your preferences and experience level.",
       "price": "Free",
-      "duration": "30 mins",
+      "duration": "10-15 mins",
       "icon": "chat",
       "features": [
-        "Free consultation",
-        "Expert advice",
-        "No obligation",
-        "Custom solutions"
+        "Personalized advice",
+        "Flavor recommendations",
+        "Strength guidance",
+        "No obligation"
       ],
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?w=800&h=600&fit=crop"
     }
   ],
   "serviceAreas": [
     {
-      "name": "Sydney",
-      "slug": "sydney",
-      "description": "Located in the heart of Sydney, we're your go-to destination for premium selling zyn tobacco pouches services."
-    },
-    {
       "name": "Sydney CBD",
       "slug": "sydney-cbd",
-      "description": "Serving the Sydney CBD with exceptional selling zyn tobacco pouches services."
+      "description": "Fast delivery to Sydney CBD and surrounding areas. Same-day pickup available."
     },
     {
-      "name": "Surrounding Areas",
-      "slug": "surrounding-areas",
-      "description": "We proudly serve Sydney and all surrounding suburbs with professional selling zyn tobacco pouches services."
-    }
-  ],
-  "team": [
-    {
-      "name": "Owner",
-      "role": "Founder & Lead Specialist",
-      "bio": "With over 15 years of experience, our founder established ZYN to bring world-class selling zyn tobacco pouches services to Sydney.",
-      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
-      "specialties": [
-        "Management",
-        "Customer Service",
-        "Quality Assurance"
-      ]
+      "name": "Greater Sydney",
+      "slug": "greater-sydney",
+      "description": "Serving all of Greater Sydney with fast, reliable delivery."
     },
     {
-      "name": "Senior Specialist",
-      "role": "Senior Team Member",
-      "bio": "Our senior specialist brings 10 years of experience and is known for delivering exceptional results.",
-      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
-      "specialties": [
-        "Expertise",
-        "Precision",
-        "Customer Care"
-      ]
-    },
-    {
-      "name": "Team Member",
-      "role": "Specialist",
-      "bio": "Passionate about selling zyn tobacco pouches, bringing fresh ideas and excellent service to every client.",
-      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
-      "specialties": [
-        "Innovation",
-        "Quality",
-        "Reliability"
-      ]
+      "name": "Australia Wide",
+      "slug": "australia-wide",
+      "description": "We ship Australia-wide with express delivery options available."
     }
   ],
   "testimonials": [
     {
-      "name": "Sarah M.",
-      "location": "Sydney",
-      "text": "I've been coming to ZYN for years and wouldn't trust anyone else. The team are true professionals!",
-      "rating": 5,
-      "service": "Premium Service",
-      "date": "2024-11"
+      "name": "James M.",
+      "role": "Regular Customer",
+      "content": "Made the switch from smoking 6 months ago. ZYN has been a game-changer. Fast delivery and great product selection.",
+      "rating": 5
     },
     {
-      "name": "David N.",
-      "location": "Sydney",
-      "text": "Finally found a selling zyn tobacco pouches that delivers quality every time. Quick, professional, and great value.",
-      "rating": 5,
-      "service": "Standard Service",
-      "date": "2024-10"
+      "name": "Sarah K.",
+      "role": "New Customer",
+      "content": "The starter pack was perfect for trying different flavors. Now I know exactly what I like. Highly recommend for anyone curious about nicotine pouches.",
+      "rating": 5
     },
     {
-      "name": "Jessica W.",
-      "location": "Sydney",
-      "text": "ZYN exceeded all my expectations. The team was professional and the results were amazing!",
-      "rating": 5,
-      "service": "Express Service",
-      "date": "2024-09"
-    },
-    {
-      "name": "Amanda C.",
-      "location": "Sydney",
-      "text": "Best service in the area. Fair prices and great communication throughout.",
-      "rating": 5,
-      "service": "Premium Service",
-      "date": "2024-11"
-    },
-    {
-      "name": "Sophie B.",
-      "location": "Sydney",
-      "text": "Called for an emergency and they were there within the hour. Couldn't be happier!",
-      "rating": 5,
-      "service": "Standard Service",
-      "date": "2024-08"
-    },
-    {
-      "name": "Rachel G.",
-      "location": "Sydney",
-      "text": "Professional, reliable, and great attention to detail. Highly recommended!",
-      "rating": 5,
-      "service": "Express Service",
-      "date": "2024-10"
+      "name": "Michael T.",
+      "role": "Bulk Buyer",
+      "content": "Great prices on bulk orders and the subscription option means I never run out. Customer service is top notch too.",
+      "rating": 5
     }
   ],
   "faq": [
     {
-      "question": "How do I book an appointment?",
-      "answer": "You can book online through our website 24/7, call us on 1300 000 000 during business hours, or send us a message on social media."
+      "question": "What are ZYN nicotine pouches?",
+      "answer": "ZYN pouches are tobacco-free nicotine products. You place a small pouch between your gum and lip where the nicotine is absorbed. There's no smoke, no vapor, and no tobacco leaf involved."
     },
     {
-      "question": "What is your cancellation policy?",
-      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
+      "question": "How do I use ZYN pouches?",
+      "answer": "Simply place a pouch between your upper lip and gum. You may feel a tingling sensation as the nicotine is released. Keep the pouch in place for 30-60 minutes, then dispose of it properly."
     },
     {
-      "question": "Do you offer free consultations?",
-      "answer": "Yes! We offer complimentary consultations for all our services. This helps us understand your needs and provide an accurate quote."
+      "question": "What flavors are available?",
+      "answer": "ZYN comes in a variety of flavors including Cool Mint, Spearmint, Citrus, Coffee, and more. We also carry different nicotine strengths to suit your preferences."
     },
     {
-      "question": "What areas do you service?",
-      "answer": "We primarily service Sydney, Sydney, and surrounding areas within QLD. Contact us to confirm we cover your location."
+      "question": "How fast is delivery?",
+      "answer": "Sydney metro orders typically arrive within 1-2 business days. Express shipping is available for same-day or next-day delivery. Australia-wide orders take 3-5 business days."
     },
     {
-      "question": "Is parking available?",
-      "answer": "Yes! Free parking is available near our location. There's also street parking and public transport options nearby."
-    },
-    {
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment plans may be available for larger services."
-    },
-    {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes, we are fully licensed and insured. All our team members hold current certifications and undergo regular training."
-    },
-    {
-      "question": "Do you offer warranties on your work?",
-      "answer": "Yes! We stand behind our work with satisfaction guarantees and warranties on applicable services. Ask us for details."
+      "question": "Is there a minimum order?",
+      "answer": "No minimum order required. However, orders over $100 qualify for free shipping. Bulk orders receive additional discounts."
     }
   ],
   "about": {
-    "title": "Sydney's Most Trusted selling zyn tobacco pouches Since 2021",
-    "story": "ZYN was founded in 2021 with a simple mission: to bring world-class selling zyn tobacco pouches services to Sydney. After training and working with industry leaders, our founder returned to their hometown to create a business that combines technical excellence with a welcoming, local feel.\n\nToday, our team shares a passion for delivering exceptional results for every client. We've built our reputation on honesty, expertise, and results that speak for themselves.\n\nWhether you need a simple service or a complete solution, we're here to help you achieve your goals.",
-    "mission": "Our mission is to deliver exceptional selling zyn tobacco pouches services in a welcoming environment, using sustainable practices and premium products.",
+    "title": "About ZYN Sydney",
+    "description": "We're Sydney's dedicated ZYN nicotine pouch retailer. Our mission is to provide adult nicotine users with a cleaner, smoke-free alternative. We stock the full range of ZYN products and offer fast, discreet delivery across Australia.",
+    "mission": "To provide adult consumers with premium tobacco-free nicotine products and exceptional customer service.",
     "values": [
-      {
-        "title": "Excellence",
-        "description": "We never stop learning. Our team regularly trains with industry leaders to stay at the forefront of techniques and trends."
-      },
-      {
-        "title": "Honesty",
-        "description": "We'll always give you honest advice about what's achievable and what's best for your needs."
-      },
-      {
-        "title": "Reliability",
-        "description": "We're committed to showing up on time, every time, and delivering on our promises."
-      }
-    ],
-    "features": [
-      "Licensed & Fully Insured",
-      "Locally Owned Since 2021",
-      "Quality Guaranteed",
-      "Premium Products & Materials",
-      "Complimentary Consultations",
-      "Easy Parking Available"
+      "Quality products only",
+      "Fast, reliable delivery",
+      "Honest pricing",
+      "Excellent customer support"
     ]
   },
-  "gallery": [
-    {
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop",
-      "alt": "Premium Service",
-      "category": "Residential"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-      "alt": "Standard Service",
-      "category": "Residential"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
-      "alt": "Express Service",
-      "category": "Residential"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop",
-      "alt": "Consultation",
-      "category": "Commercial"
-    }
-  ],
-  "seo": {
-    "siteName": "ZYN Sydney",
-    "siteUrl": "https://zyn.com.au",
-    "title": "ZYN | selling zyn tobacco pouches Sydney | Professional selling zyn tobacco pouches",
-    "description": "Sydney's top-rated selling zyn tobacco pouches service. Expert residential and commercial selling zyn tobacco pouches. Servicing Sydney & surrounding areas. Call 045984839202.",
-    "keywords": [
-      "selling zyn tobacco pouches sydney",
-      "selling zyn tobacco pouches sydney",
-      "best selling zyn tobacco pouches sydney",
-      "sydney selling zyn tobacco pouches",
-      "sydney selling zyn tobacco pouches",
-      "local selling zyn tobacco pouches",
-      "selling zyn tobacco pouches near me",
-      "professional selling zyn tobacco pouches",
-      "selling zyn tobacco pouches services",
-      "QLD selling zyn tobacco pouches"
-    ]
-  },
-  "schema": {
-    "type": "LocalBusiness",
-    "priceRange": "$$"
-  },
+  "team": [],
+  "gallery": [],
   "colors": {
-    "primary": "#2563eb",
-    "primaryLight": "#3b82f6",
-    "secondary": "#1f2937",
-    "accent": "#f59e0b"
-  },
-  "images": {
-    "hero": "https://files.catbox.moe/ruvm3c.png",
-    "about": "https://files.catbox.moe/diwmuc.png"
+    "primary": "#1e3a5f",
+    "primaryLight": "#2d5a8a",
+    "secondary": "#0f172a",
+    "accent": "#3b82f6"
   },
   "copy": {
-    "heroSubtitle": "Professional selling zyn tobacco pouches services with quality results guaranteed.",
-    "servicesSubtitle": "From routine maintenance to specialized services, our expert team delivers exceptional results.",
-    "teamTitle": "Meet Our Team",
-    "teamSubtitle": "Experienced professionals dedicated to delivering quality selling zyn tobacco pouches services.",
-    "ctaTitle": "Ready for Professional selling zyn tobacco pouches?",
-    "ctaSubtitle": "Get a free quote today and experience the ZYN difference."
+    "heroSubtitle": "Premium tobacco-free nicotine pouches delivered fast across Sydney and Australia.",
+    "servicesSubtitle": "Explore our range of ZYN products and find your perfect match.",
+    "teamTitle": "Our Team",
+    "teamSubtitle": "Dedicated to helping you make the switch to smoke-free nicotine.",
+    "ctaTitle": "Ready to Try ZYN?",
+    "ctaSubtitle": "Browse our selection and get fast delivery to your door."
   },
-  "cta": {
-    "primary": "Book Online",
-    "secondary": "Call Now",
-    "consultation": "Free Consultation"
+  "seo": {
+    "title": "ZYN Sydney | Premium Nicotine Pouches | Fast Delivery Australia",
+    "description": "Buy ZYN nicotine pouches online in Sydney and Australia. Tobacco-free, smoke-free alternative. Fast delivery, great prices, all flavors in stock."
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=600&fit=crop"
   }
 }
