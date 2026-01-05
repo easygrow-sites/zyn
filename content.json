@@ -2,17 +2,16 @@
   "business": {
     "name": "ZYN",
     "tagline": "Sydney's Premier selling zyn tobacco pouches - Where Quality Meets Excellence",
-    "phone": "1300 000 000",
-    "email": "info@zyn.com.au",
+    "phone": "045984839202",
+    "email": "aaron@savvy-viva.com",
     "address": "123 Main Street, Sydney",
     "suburb": "Sydney",
     "city": "Sydney",
-    "state": "QLD",
+    "state": "NSW",
     "postcode": "4000",
     "country": "Australia",
     "service": "selling zyn tobacco pouches",
     "serviceSlug": "selling-zyn-tobacco-pouches",
-    "abn": "12 345 678 901",
     "established": 2021,
     "openingHours": {
       "monday": "9:00 AM - 5:00 PM",
@@ -260,41 +259,31 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 1",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop",
+      "alt": "Premium Service",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 2",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
+      "alt": "Standard Service",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 3",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+      "alt": "Express Service",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 4",
-      "category": "Recent"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 5",
-      "category": "Featured"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 6",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop",
+      "alt": "Consultation",
+      "category": "Commercial"
     }
   ],
   "seo": {
     "siteName": "ZYN Sydney",
     "siteUrl": "https://zyn.com.au",
-    "title": "ZYN | Best selling zyn tobacco pouches Sydney | Sydney selling zyn tobacco pouches",
-    "description": "Sydney's top-rated selling zyn tobacco pouches in Sydney. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "title": "ZYN | selling zyn tobacco pouches Sydney | Professional selling zyn tobacco pouches",
+    "description": "Sydney's top-rated selling zyn tobacco pouches service. Expert residential and commercial selling zyn tobacco pouches. Servicing Sydney & surrounding areas. Call 045984839202.",
     "keywords": [
       "selling zyn tobacco pouches sydney",
       "selling zyn tobacco pouches sydney",
@@ -319,8 +308,8 @@
     "accent": "#f59e0b"
   },
   "images": {
-    "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop",
-    "about": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop"
+    "hero": "https://files.catbox.moe/ruvm3c.png",
+    "about": "https://files.catbox.moe/diwmuc.png"
   },
   "copy": {
     "heroSubtitle": "Professional selling zyn tobacco pouches services with quality results guaranteed.",
