@@ -165,7 +165,28 @@
     ]
   },
   "team": [],
-  "gallery": [],
+  "gallery": [
+    {
+      "image": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=800&h=600&fit=crop",
+      "alt": "ZYN Nicotine Pouches",
+      "category": "Residential"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=600&fit=crop",
+      "alt": "Starter Packs",
+      "category": "Residential"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?w=800&h=600&fit=crop",
+      "alt": "Bulk Orders",
+      "category": "Residential"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?w=800&h=600&fit=crop",
+      "alt": "Product Consultation",
+      "category": "Commercial"
+    }
+  ],
   "colors": {
     "primary": "#1e3a5f",
     "primaryLight": "#2d5a8a",
@@ -181,8 +202,9 @@
     "ctaSubtitle": "Browse our selection and get fast delivery to your door."
   },
   "seo": {
-    "title": "ZYN Sydney | Premium Nicotine Pouches | Fast Delivery Australia",
-    "description": "Buy ZYN nicotine pouches online in Sydney and Australia. Tobacco-free, smoke-free alternative. Fast delivery, great prices, all flavors in stock."
+    "title": "ZYN | selling zyn tobacco pouches Sydney | Professional selling zyn tobacco pouches",
+    "description": "Sydney's top-rated selling zyn tobacco pouches service. Expert residential and commercial selling zyn tobacco pouches. Servicing Sydney & surrounding areas. Call 045984839202.",
+    "siteName": "ZYN Sydney"
   },
   "images": {
     "hero": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=1920&h=1080&fit=crop",
